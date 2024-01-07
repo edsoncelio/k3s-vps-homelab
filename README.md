@@ -10,12 +10,16 @@ VPS spec:
 Pricing: U$ 5.50/month per VPS.
   
 ## Tools
-- [ ] Grafana
-- [ ] Loki (with promtail)
+- [x] Grafana
+- [x] Loki (with promtail)
 - [ ] Argo CD
 - [ ] Prometheus (with AlertManager)
 - [ ] CertManager
 - [ ] Let's Encrypt
 - [ ] Uptime Kuma
 - [ ] LongHorn
+
+
+## TODO
+- [ ] Write ansible playbook to setup the tools
 
