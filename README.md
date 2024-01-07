@@ -1,7 +1,14 @@
 # k3s-vps-homelab
-k3s homelab setup, based in https://k3s.rocks/
+k3s homelab setup, based on https://k3s.rocks/
 
+It is hosted in [Contabo](https://contabo.com/en/vps-c/).   
+VPS spec:
+* 4 vCPU Cores
+* 6 GB RAM
+* 400 GB SSD
 
+Pricing: U$ 5.50/month per VPS.
+  
 ## Tools
 - [ ] Grafana
 - [ ] Loki (with promtail)
@@ -11,3 +18,4 @@ k3s homelab setup, based in https://k3s.rocks/
 - [ ] Let's Encrypt
 - [ ] Uptime Kuma
 - [ ] LongHorn
+
